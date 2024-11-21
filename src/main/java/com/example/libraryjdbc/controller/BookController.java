@@ -1,5 +1,6 @@
-package com.example.libraryjdbc;
+package com.example.libraryjdbc.controller;
 
+import com.example.libraryjdbc.service.BookService;
 import com.example.libraryjdbc.model.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
